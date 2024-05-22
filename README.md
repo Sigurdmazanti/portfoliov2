@@ -3,3 +3,19 @@
 It's a bit empty.. for now :)
 I'm working on this site almost daily, but I am currently prioritizing exams.
 If you're curious, it was built using GSAP, Barba.js, SCSS & plain HTML, bundled & minified with Webpack and packaged with NPM.
+
+## To-do
+- improve projects transition animation
+- optimize images
+- improve projects slider animation speed (too slow)
+- php/serverside lang
+- semantic/general seo
+- remaining subpages
+- playground
+- 404 page
+- mobile / smaller screens
+- speed & cpu optimization
+- loading non-variable fonts for better browser support
+- improve scrolling backgrounds
+- CMS/headless CMS implementation
+- add follower hover over links
