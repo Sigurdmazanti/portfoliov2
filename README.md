@@ -20,3 +20,4 @@ If you're curious, it was built using GSAP, Barba.js, SCSS & plain HTML, bundled
 - improve scrolling backgrounds
 - CMS/headless CMS implementation
 - add follower hover over links
+- fix spamming projects slides wonky behaviour
