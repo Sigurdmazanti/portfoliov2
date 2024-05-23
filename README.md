@@ -21,3 +21,4 @@ If you're curious, it was built using GSAP, Barba.js, SCSS & plain HTML, bundled
 - CMS/headless CMS implementation
 - add follower hover over links
 - fix spamming projects slides wonky behaviour
+- fix projects transition animation if clicking on e.g. home page
