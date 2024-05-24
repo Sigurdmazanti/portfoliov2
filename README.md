@@ -25,3 +25,4 @@ If you're curious, it was built using GSAP, Barba.js, vanilla JS, SCSS & plain H
 - [ ] fix: tooltip z-index in inverted mode
 - [ ] fix: resize dynamically appended elements on resize events
 - [ ] feat: modal displaying warning about missing responsiveness
+- [ ] feat: polaroid
