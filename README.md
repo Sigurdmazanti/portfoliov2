@@ -22,4 +22,4 @@ If you're curious, it was built using GSAP, Barba.js, vanilla JS, SCSS & plain H
 - add follower hover over links
 - fix spamming projects slides wonky behaviour
 - fix projects transition animation if clicking on e.g. home page
-- 
+- fix tooltip z-index in inverted mode
