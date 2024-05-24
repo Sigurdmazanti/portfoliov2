@@ -2,7 +2,7 @@
 
 It's a bit empty.. for now :)
 I'm working on this site almost daily, but I am currently prioritizing exams.
-If you're curious, it was built using GSAP, Barba.js, SCSS & plain HTML, bundled & minified with Webpack and packaged with NPM.
+If you're curious, it was built using GSAP, Barba.js, vanilla JS, SCSS & plain HTML, bundled & minified with Webpack and packaged with NPM.
 
 ## To-do
 - fix scrolling backgrounds on projects
@@ -22,3 +22,4 @@ If you're curious, it was built using GSAP, Barba.js, SCSS & plain HTML, bundled
 - add follower hover over links
 - fix spamming projects slides wonky behaviour
 - fix projects transition animation if clicking on e.g. home page
+- 
