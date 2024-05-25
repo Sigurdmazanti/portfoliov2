@@ -20,6 +20,6 @@
 - [ ] fix: projects transition animation if clicking on e.g. home page
 - [ ] fix: tooltip z-index in inverted mode
 - [ ] fix: resize dynamically appended elements on resize events
-- [ ] feat: modal displaying warning about missing responsiveness
+- [x] feat: modal displaying warning about missing responsiveness
 - [ ] feat: polaroid
 - [ ] feat: dark/light mode
