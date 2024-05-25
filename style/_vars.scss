@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "glitchgoblin";
+    src: url("../assets/fonts/glitchgoblin.ttf");
+}
+// Variable font
+@font-face {
+    font-family: "Neue Regrade Variable";
+    src: url("../assets/fonts/Neue\ Regrade\ Variable.ttf") format("truetype-variations");
+}
+
+// @font-face {
+//     font-family: "Neue Regrade";
+//     font-weight: normal;
+//     font-style: normal;
+//     src: url("../assets/fonts/Neue\ Regrade\ Variable.ttf") format("otf"),
+// }
+
+// @font-face {
+//     font-family: "Neue Regrade";
+//     font-weight: normal;
+//     font-style: normal;
+//     src: url("/fonts/ABCFavorit-Regular.woff2") format("otf"),
+// }
+
+$matteblack: #28282B;
+$whitesmoke: #F5F5F5;
+$black: #000;
+$white: #fff;
+$loading_font: "glitchgoblin";
+$main_font: "Neue Regrade Variable";

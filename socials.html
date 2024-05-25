@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="dist/output.css">
+        <link rel="icon" type="image/x-icon" href="./assets/icons/favicon.ico">
+        <title>Socials | Sigurd Mazanti</title>
+        <meta property="og:title" content="Socials | Sigurd Mazanti">
+        <meta property="og:description" content="Explore my social media presence and connect with me on various platforms.">
+        <meta name="description" content="Explore my social media presence and connect with me on various platforms.">
+	</head>
+	<body data-barba="wrapper">
+        <div class="overlay" id="bgOverlayHolder">
+            <div class="color active"></div>
+            <div class="color"></div>
+            <div class="color"></div>
+            <div class="color"></div>
+            <div class="color"></div>
+            <div class="color"></div>
+            <div class="color"></div>
+        </div>
+
+        <div id="nav-text-mirror-container">
+            <div class="nav-text-mirror"></div>
+        </div>
+
+        <nav id="nav-wrapper">
+            <div id="personal-text" class="nav-text"></div>
+            <div id="portfolio-text" class="nav-text"></div>
+            <div id="top-line" class="nav-text"></div>
+            <div id="version-numbering" class="nav-text"></div>
+            <a id="repo-overlay" class="nav-text" href="https://github.com/Sigurdmazanti/portfolio" target="_blank" data-blobity-tooltip="repository"></a>
+            <a id="home-link" class="nav-text" href="/" data-blobity-radius="20" data-blobity-offset-y="10" data-blobity-offset-x="10">MAZANTI</a>
+        </nav>
+
+        <main data-barba="container" data-barba-namespace="socials">
+            <a id="back-link" href="/" data-blobity-radius="15" data-blobity-offset-y="8" data-blobity-offset-x="8">
+                <img src="./assets/icons/down-arrow.svg" alt="Arrow icon">
+                <span>back</span>
+            </a>
+            <div id="boxes">
+                <div class="box">
+                    <a href="https://stackoverflow.com/users/14776809/sigurd-mazanti" class="outbound-link" target="_blank">
+                        <img class="stackoverflow" src="./assets/icons/stackoverflow.svg">
+                    </a>
+                </div>
+                <div class="box">
+                    <a href="https://www.linkedin.com/in/sigurdmazanti/" class="outbound-link" target="_blank">
+                        <img class="linkedin" src="./assets/icons/linkedin.svg">
+                    </a>
+                </div>
+                <div class="box">
+                    <a href="https://github.com/Sigurdmazanti" class="outbound-link" target="_blank">
+                        <img class="github" src="./assets/icons/github.svg">
+                    </a>
+                </div>
+                <div class="box"><a href="socials.html">socials</a></div>
+            </div>
+            
+        </main>
+
+        <button type="button" id="resetOverlay" data-blobity-radius="15" data-blobity-offset-y="8" data-blobity-offset-x="8">reset</button>
+        <script src="dist/bundle.js"></script>
+	</body>
+</html>
