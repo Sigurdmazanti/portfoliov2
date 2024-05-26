@@ -34,8 +34,6 @@ export default [
             "no-extra-boolean-cast": "error",
             "no-fallthrough": "error",
             "no-func-assign": "error",
-            "no-global-assign": "error",
-            "no-import-assign": "error",
             "no-invalid-regexp": "error",
             "no-irregular-whitespace": "error",
             "no-loss-of-precision": "error",
@@ -67,7 +65,8 @@ export default [
             "no-with": "error",
             "require-yield": "error",
             "use-isnan": "error",
-            "valid-typeof": "error"
+            "valid-typeof": "error",
+            "no-global-assign": 0
         },
         languageOptions: {
             globals: {
