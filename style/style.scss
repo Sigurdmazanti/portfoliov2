@@ -595,6 +595,7 @@ main[data-barba-namespace="socials"] {
 
                 .github {
                     max-width: 61px;
+                    filter: $black_to_white_filter;
                 }
             }
         }
