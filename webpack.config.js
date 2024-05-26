@@ -8,7 +8,6 @@ module.exports = {
     },
     cache: false,
     mode: 'development',
-    // watch: true,
     devServer: {
         static: {
             directory: path.resolve(__dirname),
