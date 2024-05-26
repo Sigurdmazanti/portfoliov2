@@ -26,5 +26,6 @@ $matteblack: #28282B;
 $whitesmoke: #F5F5F5;
 $black: #000;
 $white: #fff;
+$black_to_white_filter: invert(98%) sepia(11%) saturate(155%) hue-rotate(204deg) brightness(115%) contrast(100%);
 $loading_font: "glitchgoblin";
 $main_font: "Neue Regrade Variable";

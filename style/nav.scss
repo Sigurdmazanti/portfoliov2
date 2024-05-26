@@ -13,7 +13,7 @@ body.black-bg {
         color: $white;
 
         img {
-            filter: invert(98%) sepia(11%) saturate(155%) hue-rotate(204deg) brightness(115%) contrast(100%);
+            filter: $black_to_white_filter;
         }
     }
 }
