@@ -1,6 +1,11 @@
 import { throttleDebounce }      from './helpers';
-import { landingBoxesAnimation } from  '../app';
+import { landingBoxesAnimation } from  '../animations/animations';
 import * as opentype from 'opentype.js';
+
+export async function drawLandingText() {
+    const fontFileName = './assets/fonts/glitchgoblin.ttf';
+    display(await fetch(fontFileName), fontFileName);
+}
 
 export function doSnap(path, str, dist, snX, snY) {
     const layers = path._layers;

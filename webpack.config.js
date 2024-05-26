@@ -7,7 +7,8 @@ module.exports = {
         filename: 'bundle.js'
     },
     cache: false,
-    mode: 'development',
+    watch: true,
+    mode: 'production',
     devServer: {
         static: {
             directory: path.resolve(__dirname),

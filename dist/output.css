@@ -811,6 +811,7 @@ main[data-barba-namespace=socials] #boxes .box a .stackoverflow {
 }
 main[data-barba-namespace=socials] #boxes .box a .github {
   max-width: 61px;
+  filter: invert(98%) sepia(11%) saturate(155%) hue-rotate(204deg) brightness(115%) contrast(100%);
 }
 
 /*# sourceMappingURL=output.css.map */

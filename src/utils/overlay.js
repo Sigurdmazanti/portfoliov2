@@ -1,4 +1,4 @@
-import { removeItemFromArray } from './helpers';
+import { removeItemFromArray } from '../utils/helpers';
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
