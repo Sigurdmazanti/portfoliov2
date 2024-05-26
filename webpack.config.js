@@ -14,5 +14,9 @@ module.exports = {
             directory: path.resolve(__dirname),
         },
         open: true
-    }
+    },
+    watchOptions: {
+        poll: 100,
+        aggregateTimeout: 300,
+    },
 };
