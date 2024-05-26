@@ -810,7 +810,7 @@ main[data-barba-namespace=socials] #boxes .box a .stackoverflow {
   max-width: 90px;
 }
 main[data-barba-namespace=socials] #boxes .box a .github {
-  max-width: 61px;
+  max-width: 55px;
   filter: invert(98%) sepia(11%) saturate(155%) hue-rotate(204deg) brightness(115%) contrast(100%);
 }
 
